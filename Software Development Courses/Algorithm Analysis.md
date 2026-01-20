@@ -48,6 +48,20 @@ function find(needle, haystack) {
 }
 ```
 
-Still $n^2$
+Still $O(n^2)$
+
+
+```javascript
+function makeTuples(input) {
+  var answer = [];
+  for (var i = 0; i < input.length; i++) {
+    for (var j = 0; j < input.length; j++) {
+      answer.push([input[i], input[j]]);
+    }
+  }
+  return answer;
+}
+```
+
 ## Links
 https://btholt.github.io/complete-intro-to-computer-science/big-o/
