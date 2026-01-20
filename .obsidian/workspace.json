@@ -11,14 +11,14 @@
             "id": "a5fbc5e9dcde47dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "MOC/Computer Science MOC.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Computer Science MOC"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -156,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/Computer Science MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Computer Science MOC"
+              "title": "Outline"
             }
           },
           {
@@ -176,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,13 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70f6df5a806dbc88",
+  "active": "a5fbc5e9dcde47dc",
   "lastOpenFiles": [
+    "MOC/Computer Science MOC.md",
     "Truth Technologies/Untitled",
     "Software Development Courses/Algorithm Analysis.md",
     "Truth Technologies",
     "Software Development Courses/Complete Intro to Computer Science.md",
-    "MOC/Computer Science MOC.md",
     "Software Development Courses/The Last Algorithm Course You'll Need.md",
     "Software Development Courses/Recursion.md",
     "MOC",
