@@ -38,7 +38,7 @@ function crossAdd(input) {
 
 How many instructions am I giving the CPU based on the length of the array?
 
-Anything outside the loop will only execute once while code inside the loop will execute for each iteration of the loop. input.length can be calculated using n^2
+Anything outside the loop will only execute once while code inside the loop will execute for each iteration of the loop. input.length can be calculated using $O(n)$
 
 ```javascript
 function find(needle, haystack) {
@@ -48,7 +48,7 @@ function find(needle, haystack) {
 }
 ```
 
-Still $O(n^2)$
+Still $O(n)$
 
 
 ```javascript
@@ -62,6 +62,12 @@ function makeTuples(input) {
   return answer;
 }
 ```
+This would be O(n²). For every input, we have to go through a full loop inside of another full loop, meaning we're doing a lot of work! This is the trick: look for loops. A loop inside of a loop inside of a loop would likewise be O(n³).
+
+If we have no loops and just do something and exit/return, then it's said we're doing it in constant time, or O(1).
+
+
+
 
 ## Links
 https://btholt.github.io/complete-intro-to-computer-science/big-o/
