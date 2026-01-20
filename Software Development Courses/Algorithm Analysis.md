@@ -15,11 +15,13 @@ platform:
 
  
 ## Big O
-	Big is a way of talking about how efficient an algorithm is (mathematically)
 
-	A "term" in mathematics just means one piece of the equation (normally separated by + or - signs). In 3x² + x + 1, 3x² is the first term, x is the second, and 1 is the third.
-		Example: An array with a length of 1 would be (3(1)^2) + 1 + 1 = 5
-	Big O can be simplified to use O(n^2) since we're more interested in the biggest "terms" of the equation
+Big is a way of talking about how efficient an algorithm is (mathematically)
+
+A "term" in mathematics just means one piece of the equation (normally separated by + or - signs). In 3x² + x + 1, 3x² is the first term, x is the second, and 1 is the third.
+
+Example: An array with a length of 1 would be (3(1)^2) + 1 + 1 = 5
+Big O can be simplified to use $O(n^2)$ since we're more interested in the biggest "terms" of the equation
 
 ```
 javascript
@@ -36,6 +38,7 @@ function crossAdd(input) {
 ```
 How many instructions am I giving the CPU based on the length of the array?
 
+Anything outside the loop will only execute once while code inside the loop will execute for each iteration of the loop. input.length can be calculated using n^2
 
 
 ## Links
