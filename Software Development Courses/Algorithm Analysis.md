@@ -48,5 +48,6 @@ function find(needle, haystack) {
 }
 ```
 
+Still $n^2$
 ## Links
 https://btholt.github.io/complete-intro-to-computer-science/big-o/
