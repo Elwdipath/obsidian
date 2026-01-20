@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development Courses/Search.md",
+                "file": "Software Development Courses/Recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search"
+              "title": "Recursion"
             }
           }
         ]
@@ -184,11 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70f6df5a806dbc88",
+  "active": "a5fbc5e9dcde47dc",
   "lastOpenFiles": [
     "Software Development Courses/The Last Algorithm Course You'll Need.md",
-    "Software Development Courses/Search.md",
+    "Software Development Courses/Recursion.md",
     "Software Development Courses/Computer Science MOC.md",
+    "Software Development Courses/Search.md",
     "Software Development Courses/Wrapping Up.md",
     "Practical Problem Solving with Algorithms.md",
     "Software Development Courses/Algorithm Analysis.md",
