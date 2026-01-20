@@ -1,3 +1,8 @@
+---
+tags:
+  - course
+  - introcs
+---
 [[Algorithm Analysis]]
 [[Iterative Sorts]]
 [[Recursive Sorts]]
