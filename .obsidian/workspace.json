@@ -11,14 +11,14 @@
             "id": "a5fbc5e9dcde47dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Software Development Courses/Algorithm Analysis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Algorithm Analysis"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#course",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Software Development Courses/Algorithm Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Algorithm Analysis"
             }
           },
           {
@@ -175,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,11 +196,11 @@
   },
   "active": "a5fbc5e9dcde47dc",
   "lastOpenFiles": [
+    "Software Development Courses/Complete Intro to Computer Science.md",
     "MOC/Computer Science MOC.md",
     "Truth Technologies/Untitled",
     "Software Development Courses/Algorithm Analysis.md",
     "Truth Technologies",
-    "Software Development Courses/Complete Intro to Computer Science.md",
     "Software Development Courses/The Last Algorithm Course You'll Need.md",
     "Software Development Courses/Recursion.md",
     "MOC",
