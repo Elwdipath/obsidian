@@ -2,7 +2,7 @@
 type: course
 title: Algorithm Analysis
 provider: Frontend Masters
-status: Not Started
+status: In Progress
 start_date: ""
 finish_date: ""
 tags:
@@ -23,8 +23,7 @@ A "term" in mathematics just means one piece of the equation (normally separated
 Example: An array with a length of 1 would be (3(1)^2) + 1 + 1 = 5
 Big O can be simplified to use $O(n^2)$ since we're more interested in the biggest "terms" of the equation
 
-```
-javascript
+```javascript
 function crossAdd(input) {
   var answer = [];
   for (var i = 0; i < input.length; i++) {
@@ -34,12 +33,20 @@ function crossAdd(input) {
   }
   return answer;
 }
-
 ```
+
+
 How many instructions am I giving the CPU based on the length of the array?
 
 Anything outside the loop will only execute once while code inside the loop will execute for each iteration of the loop. input.length can be calculated using n^2
 
+```javascript
+function find(needle, haystack) {
+  for (var i = 0; i < haystack.length; i++) {
+    if (haystack[i] === needle) return true;
+  }
+}
+```
 
 ## Links
 https://btholt.github.io/complete-intro-to-computer-science/big-o/
