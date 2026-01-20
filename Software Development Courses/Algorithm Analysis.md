@@ -9,13 +9,9 @@ tags:
   - course
   - learning
   - introcs
+platform:
 ---
-#course #introcs
-
----
-plat
----
-
+#course #introcs 
 # 🎓 Algorithm Analysis
 Platform: **{{platform}}**  
 Link: {{url}}

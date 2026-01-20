@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Book Note.md",
+                "file": "Software Development Courses/Algorithm Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Book Note"
+              "title": "Outline of Algorithm Analysis"
+            }
+          },
+          {
+            "id": "ed193b8b96e09cae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5fbc5e9dcde47dc",
+  "active": "6ec0baf7cd798940",
   "lastOpenFiles": [
     "Software Development Courses/Complete Intro to Computer Science.md",
     "MOC/Computer Science MOC.md",
