@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development Courses/Algorithm Analysis.md",
-                "mode": "source",
+                "file": "Software Development Courses/Complete Intro to Computer Science Test.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm Analysis"
+              "title": "Complete Intro to Computer Science Test"
             }
           }
         ],
@@ -227,8 +227,9 @@
   "active": "e821c1a35791ebfa",
   "lastOpenFiles": [
     "Software Development Courses/Complete Intro to Computer Science.md",
-    "Software Development Courses/Algorithm Analysis.md",
     "MOC/Computer Science MOC.md",
+    "Software Development Courses/Complete Intro to Computer Science Test.md",
+    "Software Development Courses/Algorithm Analysis.md",
     "2026-01-20.md",
     "Software Development Courses/Practical Problem Solving with Algorithms.md",
     "Software Development Courses/The Last Algorithm Course You'll Need.md",
