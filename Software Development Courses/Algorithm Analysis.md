@@ -84,5 +84,20 @@ Green = The green line is where we get start getting scary. For every item we ad
 
 ![[Software Development Courses/attachments/BigOgraph-log.png]]
 Notice the purple line we added. Now as we add more terms to the array, it takes less and less time because the function can make some use of some tricks to take shortcuts. We'll dig into these later in the course.
-## Links
+### Links
 https://btholt.github.io/complete-intro-to-computer-science/big-o/
+
+## Spacial Complexity
+
+### Linear
+
+Let's say we have an algorithm that for every item in the array, it needs to create another array in the process of sorting it. So for an array of length 10, our algorithm will create 10 arrays. For an array of 100, it'd create 100 extra arrays (or something close, remember these are broad strokes, not exact.) This would be O(n) in terms of its spatial complexity. We'll do some sorts that do this.### Logrithmic
+
+### Constant
+
+### Quadratic
+
+
+
+### Links
+https://btholt.github.io/complete-intro-to-computer-science/spatial-complexity/
