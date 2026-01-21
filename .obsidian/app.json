@@ -1,6 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attachments",
   "propertiesInDocument": "visible",
   "alwaysUpdateLinks": true
 }

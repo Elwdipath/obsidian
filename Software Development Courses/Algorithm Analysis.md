@@ -75,12 +75,14 @@ function getMiddleOfArray(array) {
 
 This would be O(1) because no matter how long the array is, this still takes the same amount of time to do.
 
-[![graph of y = 1, y = x + 1, and y = x^2 + 1](https://btholt.github.io/complete-intro-to-computer-science/static/e331672c4244a2ae881a5123175c2c59/5a190/graph.png)](https://btholt.github.io/complete-intro-to-computer-science/static/e331672c4244a2ae881a5123175c2c59/5a190/graph.png)
+![[BigOgraph.png]]
 Red = O(1) Example: getMiddleOfArray() function will take the same amount of time to run no matter the size of the array. 
 
-Blue = 
+Blue = The blue line represents a function that takes longer based on how many items are in the array similar to `crossAdd` or `find` and it grows a steady rate. If it takes 10ms to run a function with a 100 items in it, we could reasonably expect it would take 10 times longer-ish (remember, these are broad strokes, not precise figures) if we had 10 times the amount of things in the array.
 
+Green = The green line is where we get start getting scary. For every item we add to the array, it takes exponentially more time to complete the operation. Adding 10x the items could cause a function to takes 100x longer since it's O(n²). It gets even scarier at O(n³) as it would take 1000x longer.
 
+![[BigOgraph-log.png]]
 
 
 ## Links
