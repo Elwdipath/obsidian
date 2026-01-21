@@ -9,6 +9,9 @@ tags:
   - course
   - learning
   - introcs
+  - algorithm
+  - bigo
+  - spacialcomplexity
 platform:
 ---
 #course #introcs 
