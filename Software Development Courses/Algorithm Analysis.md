@@ -67,6 +67,20 @@ This would be O(n²). For every input, we have to go through a full loop inside 
 If we have no loops and just do something and exit/return, then it's said we're doing it in constant time, or O(1).
 
 
+```javascript
+function getMiddleOfArray(array) {
+  return array[Math.floor(array.length / 2)];
+}
+```
+
+This would be O(1) because no matter how long the array is, this still takes the same amount of time to do.
+
+[![graph of y = 1, y = x + 1, and y = x^2 + 1](https://btholt.github.io/complete-intro-to-computer-science/static/e331672c4244a2ae881a5123175c2c59/5a190/graph.png)](https://btholt.github.io/complete-intro-to-computer-science/static/e331672c4244a2ae881a5123175c2c59/5a190/graph.png)
+Red = O(1) Example: getMiddleOfArray() function will take the same amount of time to run no matter the size of the array. 
+
+Blue = 
+
+
 
 
 ## Links
