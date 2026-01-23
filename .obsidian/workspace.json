@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5fbc5e9dcde47dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC/Computer Science MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Science MOC"
-            }
-          },
-          {
             "id": "0e3f4df0e8f5a92b",
             "type": "leaf",
             "state": {
@@ -188,14 +174,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c00291cb47b2b8ec",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5fbc5e9dcde47dc",
+  "active": "c00291cb47b2b8ec",
   "lastOpenFiles": [
+    "Templates/Project.md",
+    "MOC/Computer Science MOC.md",
     "Software Development Courses/Algorithm Analysis.md",
     "Software Development Courses/Complete Intro to Computer Science.md",
-    "MOC/Computer Science MOC.md",
     "Software Development Courses/Complete Intro to Computer Science Test.md",
     "Software Development Courses/BigOgraph-log.png",
     "Software Development Courses/BigOgraph.png",
@@ -244,7 +240,6 @@
     "Books/Feel Good Productivity/Play/Embrace your curiousity.md",
     "Books/Feel Good Productivity/Play/Choosing your character.md",
     "Books/Feel Good Productivity/Play/Test.md",
-    "Templates/Project.md",
     "Templates/Daily Note.md",
     "Templates",
     "Daily Notes/2026/January",
