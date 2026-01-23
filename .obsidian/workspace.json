@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development Courses/Complete Intro to Computer Science.md",
+                "file": "Software Development Courses/Algorithm Analysis.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complete Intro to Computer Science"
+              "title": "Algorithm Analysis"
             }
           }
         ]
@@ -197,10 +197,10 @@
   },
   "active": "a5fbc5e9dcde47dc",
   "lastOpenFiles": [
+    "Software Development Courses/Complete Intro to Computer Science.md",
     "MOC/Computer Science MOC.md",
     "Software Development Courses/BigOgraph.png",
     "Software Development Courses/Algorithm Analysis.md",
-    "Software Development Courses/Complete Intro to Computer Science.md",
     "Software Development Courses/attachments/BigOgraph-log.png",
     "Software Development Courses/attachments/BigOgraph.png",
     "Software Development Courses/attachments",
