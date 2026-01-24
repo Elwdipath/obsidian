@@ -4,4 +4,8 @@
 - [ ] ifixit pro tech toolkit
 - [ ] PCB Holder
 - [ ] Microscope
-- [ ] 
+- [ ] Fume Extractor
+- [ ] Solder 0.5-0.8mm rosin core
+- [ ] Flux
+- [ ] Kapton tape
+- [ ] Solder wick
