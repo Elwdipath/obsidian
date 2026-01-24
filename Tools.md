@@ -1,4 +1,4 @@
-- [ ] soldering iron
+- [x] soldering iron
 - [ ] Multimeter
 - [ ] Hot air rework station
 - [ ] ifixit pro tech toolkit
