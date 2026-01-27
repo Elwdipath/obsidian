@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Computer Science MOC.md",
-                "mode": "source",
+                "file": "Software Development Courses/Complete Intro to Computer Science.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Science MOC"
+              "title": "Complete Intro to Computer Science"
             }
           }
         ]
@@ -207,8 +207,8 @@
   },
   "active": "0e3f4df0e8f5a92b",
   "lastOpenFiles": [
-    "MOC/Electronics Repair.md",
     "MOC/Computer Science MOC.md",
+    "MOC/Electronics Repair.md",
     "Software Development Courses/Algorithm Analysis.md",
     "Tools.md",
     "Templates/Project.md",
