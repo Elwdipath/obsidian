@@ -12,7 +12,7 @@ protein:
 carbs:
 fat:
 source:
-rating: ⭐⭐⭐⭐☆
+rating: unrated
 tags:
   - recipe
   - bento
