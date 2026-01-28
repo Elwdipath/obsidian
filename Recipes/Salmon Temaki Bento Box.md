@@ -96,9 +96,9 @@ To assemble the bento, place the re-heatable items in the bottom layer (if you h
 
 ## 🥗 Nutrition (optional)
 - **Calories:** 622
-- **Protein:** 
-- **Carbs:** 
-- **Fat:** 
+- **Protein:** 47
+- **Carbs:** 61
+- **Fat:** 22
 
 ---
 
