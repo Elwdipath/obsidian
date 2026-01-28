@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development Courses/Algorithm Analysis.md",
-                "mode": "preview",
+                "file": "Daily Notes/2026/January/2026-01-28.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm Analysis"
+              "title": "2026-01-28"
             }
           }
         ]
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +206,12 @@
   },
   "active": "0e3f4df0e8f5a92b",
   "lastOpenFiles": [
+    "Software Development Courses/Algorithm Analysis.md",
+    "Daily Notes/2026/January/2026-01-28.md",
+    "Software Development Courses/Untitled.md",
     "Software Development Courses/Complete Intro to Computer Science.md",
     "MOC/Computer Science MOC.md",
     "MOC/Electronics Repair.md",
-    "Software Development Courses/Algorithm Analysis.md",
     "Tools.md",
     "Templates/Project.md",
     "Software Development Courses/Complete Intro to Computer Science Test.md",
@@ -241,8 +242,6 @@
     "Books/Feel Good Productivity/Home.md",
     "Books/Feel Good Productivity/Play/NYU study.md",
     "Books/Feel Good Productivity/Play/Embrace your curiousity.md",
-    "Books/Feel Good Productivity/Play/Choosing your character.md",
-    "Books/Feel Good Productivity/Play/Test.md",
     "Templates",
     "Daily Notes/2026/January",
     "Daily Notes/2026",
