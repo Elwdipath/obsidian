@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/White Chicken Lasagna Soup.md",
+                "file": "Software Development Courses/Algorithm Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "White Chicken Lasagna Soup"
+              "title": "Algorithm Analysis"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/White Chicken Lasagna Soup.md",
+                "file": "Software Development Courses/Algorithm Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of White Chicken Lasagna Soup"
+              "title": "Outline of Algorithm Analysis"
             }
           },
           {
@@ -206,8 +206,8 @@
   },
   "active": "16a44d5d448f52a6",
   "lastOpenFiles": [
-    "Recipes/Salmon Temaki Bento Box.md",
     "Recipes/White Chicken Lasagna Soup.md",
+    "Recipes/Salmon Temaki Bento Box.md",
     "Recipes/Sauces.md",
     "Templates/Recipe.md",
     "Recipes/---.md",
