@@ -1,0 +1,92 @@
+---
+type: recipe
+cuisine:
+meal: lunch
+difficulty:
+prep_time:
+cook_time:
+total_time:
+servings:
+calories:
+protein:
+carbs:
+fat:
+source:
+rating: ⭐⭐⭐⭐☆
+tags:
+  - recipe
+  - bento
+  - lunch
+  - salmon
+---
+
+## Salmon Temaki Bento Box
+
+## 📝 Description
+Short description of the dish, when you like to make it, or why it slaps.
+
+---
+
+## 🧺 Ingredients
+- 
+- 
+- 
+
+---
+
+## 🔪 Prep
+- 
+- 
+
+---
+
+## 🍳 Instructions
+1. 
+2. 
+3. 
+
+---
+
+## ⏱️ Timing
+- **Prep:** 
+- **Cook:** 
+- **Rest:** 
+
+---
+
+## 🔥 Equipment
+- 
+- 
+
+---
+
+## 🌡️ Notes & Tips
+- Substitutions
+- Storage tips
+- Make-ahead notes
+
+---
+
+## 🥗 Nutrition (optional)
+- **Calories:** 
+- **Protein:** 
+- **Carbs:** 
+- **Fat:** 
+
+---
+
+## ⭐ Rating
+Your thoughts after cooking it.
+
+---
+
+## 🔁 Variations
+- 
+- 
+
+---
+
+## 🔗 Related
+- [[Sauces]]
+- [[Meal Prep]]
+- [[Favorites]]

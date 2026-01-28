@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Recipe.md",
+                "file": "Recipes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recipe"
+              "title": "Untitled"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Recipe.md",
+                "file": "Recipes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recipe"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "16a44d5d448f52a6",
   "lastOpenFiles": [
-    "Recipes/---.md",
     "Templates/Recipe.md",
+    "Recipes/Untitled.md",
+    "Recipes/---.md",
     "Templates/Software Dev Course.md",
     "Daily Notes/2026/January/2026-01-28.md",
     "Recipes",
@@ -242,7 +243,6 @@
     "Daily Notes/2026/January/01-01-2026.md",
     "Daily Notes/2026/January/Untitled.md",
     "Books/Feel Good Productivity/Home.md",
-    "Books/Feel Good Productivity/Play/NYU study.md",
     "Templates",
     "Daily Notes/2026/January",
     "Daily Notes/2026"
