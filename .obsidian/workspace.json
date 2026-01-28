@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Salmon Temaki Bento Box.md",
-                "mode": "preview",
+                "file": "Recipes/White Chicken Lasagna Soup.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salmon Temaki Bento Box"
+              "title": "White Chicken Lasagna Soup"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Salmon Temaki Bento Box.md",
+                "file": "Recipes/White Chicken Lasagna Soup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Salmon Temaki Bento Box"
+              "title": "Outline of White Chicken Lasagna Soup"
             }
           },
           {
@@ -207,8 +206,9 @@
   },
   "active": "16a44d5d448f52a6",
   "lastOpenFiles": [
-    "Recipes/Sauces.md",
     "Recipes/Salmon Temaki Bento Box.md",
+    "Recipes/White Chicken Lasagna Soup.md",
+    "Recipes/Sauces.md",
     "Templates/Recipe.md",
     "Recipes/---.md",
     "Templates/Software Dev Course.md",
@@ -243,7 +243,6 @@
     "Projects/README.md",
     "Projects",
     "Daily Notes/2026/January/01-01-2026.md",
-    "Daily Notes/2026/January/Untitled.md",
     "Templates",
     "Daily Notes/2026/January",
     "Daily Notes/2026"
