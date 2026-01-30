@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sauces.md",
+                "file": "Recipes/Salmon Temaki Bento Box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sauces"
+              "title": "Salmon Temaki Bento Box"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Sauces.md",
+                "file": "Recipes/Salmon Temaki Bento Box.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sauces"
+              "title": "Outline of Salmon Temaki Bento Box"
             }
           },
           {
@@ -204,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16a44d5d448f52a6",
+  "active": "70f6df5a806dbc88",
   "lastOpenFiles": [
-    "Recipes/Salmon Temaki Bento Box.md",
     "Recipes/Sauces.md",
+    "Recipes/Salmon Temaki Bento Box.md",
     "Software Development Courses/Algorithm Analysis.md",
     "Recipes/White Chicken Lasagna Soup.md",
     "Templates/Recipe.md",
