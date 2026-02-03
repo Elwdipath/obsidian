@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Salmon Temaki Bento Box.md",
+                "file": "Software Development Courses/Algorithm Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salmon Temaki Bento Box"
+              "title": "Algorithm Analysis"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Salmon Temaki Bento Box.md",
+                "file": "Software Development Courses/Algorithm Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Salmon Temaki Bento Box"
+              "title": "Outline of Algorithm Analysis"
             }
           },
           {
@@ -204,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70f6df5a806dbc88",
+  "active": "16a44d5d448f52a6",
   "lastOpenFiles": [
-    "Recipes/Sauces.md",
+    "MOC/Computer Science MOC.md",
     "Recipes/Salmon Temaki Bento Box.md",
+    "Recipes/Sauces.md",
     "Software Development Courses/Algorithm Analysis.md",
     "Recipes/White Chicken Lasagna Soup.md",
     "Templates/Recipe.md",
@@ -217,7 +218,6 @@
     "Recipes",
     "Software Development Courses/Untitled.md",
     "Software Development Courses/Complete Intro to Computer Science.md",
-    "MOC/Computer Science MOC.md",
     "MOC/Electronics Repair.md",
     "Tools.md",
     "Templates/Project.md",
