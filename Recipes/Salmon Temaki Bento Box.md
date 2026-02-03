@@ -22,6 +22,9 @@ tags:
 
 ## Salmon Temaki Bento Box
 
+![Salmon Temaki Bento Box](https://www.cookwell.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fg1s4qnmz%2Fproduction%2Fba6366fa24584b097b71962bbb5455b3e898ed46-2500x1666.jpg&w=3840&q=75)
+
+[](https://www.cookwell.com/recipe/salmon-temaki-bento-box#recipe-video-player-desktop)
 ## 📝 Description
 Short description of the dish, when you like to make it, or why it slaps.
 
