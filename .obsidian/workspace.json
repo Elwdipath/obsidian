@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Software Development Courses/Algorithm Analysis.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,10 +207,11 @@
   },
   "active": "16a44d5d448f52a6",
   "lastOpenFiles": [
+    "Software Development Courses/Complete Intro to Computer Science.md",
     "MOC/Computer Science MOC.md",
+    "Software Development Courses/Algorithm Analysis.md",
     "Recipes/Salmon Temaki Bento Box.md",
     "Recipes/Sauces.md",
-    "Software Development Courses/Algorithm Analysis.md",
     "Recipes/White Chicken Lasagna Soup.md",
     "Templates/Recipe.md",
     "Recipes/---.md",
@@ -217,7 +219,6 @@
     "Daily Notes/2026/January/2026-01-28.md",
     "Recipes",
     "Software Development Courses/Untitled.md",
-    "Software Development Courses/Complete Intro to Computer Science.md",
     "MOC/Electronics Repair.md",
     "Tools.md",
     "Templates/Project.md",
