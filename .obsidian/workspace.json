@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "66be6cdc86aad1be",
+        "id": "d0d409dea5fcc3e7",
         "type": "tabs",
         "children": [
           {
-            "id": "16a44d5d448f52a6",
+            "id": "a5fd07163e996509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Software Development Courses/Algorithm Analysis.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16a44d5d448f52a6",
+  "active": "a5fd07163e996509",
   "lastOpenFiles": [
     "Software Development Courses/Complete Intro to Computer Science.md",
     "MOC/Computer Science MOC.md",
+    "Software Development Courses/BigOgraph.png",
     "Software Development Courses/Algorithm Analysis.md",
     "Recipes/Salmon Temaki Bento Box.md",
     "Recipes/Sauces.md",
@@ -223,7 +225,6 @@
     "Templates/Project.md",
     "Software Development Courses/Complete Intro to Computer Science Test.md",
     "Software Development Courses/BigOgraph-log.png",
-    "Software Development Courses/BigOgraph.png",
     "Software Development Courses/attachments/BigOgraph-log.png",
     "Software Development Courses/attachments/BigOgraph.png",
     "Software Development Courses/attachments",
@@ -242,7 +243,6 @@
     "Software Development Courses",
     "Projects/README.md",
     "Projects",
-    "Daily Notes/2026/January/01-01-2026.md",
     "Templates",
     "Daily Notes/2026/January",
     "Daily Notes/2026"
