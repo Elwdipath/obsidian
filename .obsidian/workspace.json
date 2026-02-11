@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +207,8 @@
   },
   "active": "0865a0d16730433e",
   "lastOpenFiles": [
+    "Software Development Courses/attachments/bubblesort.gif",
+    "Software Development Courses/attachments/Pasted image 20260211093645.png",
     "Software Development Courses/Complete Intro to Computer Science.md",
     "Software Development Courses/Iterative Sorts.md",
     "MOC/Computer Science MOC.md",
@@ -238,7 +241,6 @@
     "2026-01-20.md",
     "Software Development Courses/Practical Problem Solving with Algorithms.md",
     "Templates/Book Note.md",
-    "Templates/Untitled 1.md",
     "Truth Technologies/Untitled",
     "Truth Technologies",
     "MOC",
