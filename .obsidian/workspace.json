@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d0d409dea5fcc3e7",
+        "id": "4a04da7906c2ed64",
         "type": "tabs",
         "children": [
           {
-            "id": "a5fd07163e996509",
+            "id": "7c884931769a9035",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Software Development Courses/Algorithm Analysis.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.7"
               },
-              "icon": "lucide-file",
-              "title": "Algorithm Analysis"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ]
@@ -204,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5fd07163e996509",
+  "active": "7c884931769a9035",
   "lastOpenFiles": [
     "What EC, PPM, and pH Mean (Hydroponics).md",
     "Welcome.md",
