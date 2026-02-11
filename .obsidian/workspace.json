@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4a04da7906c2ed64",
+        "id": "800309a3df7b6ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "7c884931769a9035",
+            "id": "0865a0d16730433e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Software Development Courses/Iterative Sorts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Iterative Sorts"
             }
           }
         ]
@@ -202,18 +204,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c884931769a9035",
+  "active": "0865a0d16730433e",
   "lastOpenFiles": [
+    "Software Development Courses/Complete Intro to Computer Science.md",
+    "Software Development Courses/Iterative Sorts.md",
+    "MOC/Computer Science MOC.md",
+    "Software Development Courses/Algorithm Analysis.md",
     "What EC, PPM, and pH Mean (Hydroponics).md",
     "Welcome.md",
     "MOC/Garden MOC.md",
     "Gardening/Vertical Garden Layout.md",
     "Gardening/Fertilizer Guide.md",
     "Gardening",
-    "Software Development Courses/Complete Intro to Computer Science.md",
-    "MOC/Computer Science MOC.md",
     "Software Development Courses/BigOgraph.png",
-    "Software Development Courses/Algorithm Analysis.md",
     "Recipes/Salmon Temaki Bento Box.md",
     "Recipes/Sauces.md",
     "Recipes/White Chicken Lasagna Soup.md",
@@ -238,7 +241,6 @@
     "Templates/Untitled 1.md",
     "Truth Technologies/Untitled",
     "Truth Technologies",
-    "Software Development Courses/Recursion.md",
     "MOC",
     "Software Development Courses",
     "Projects",
