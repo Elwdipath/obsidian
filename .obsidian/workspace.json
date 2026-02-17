@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development Courses/Iterative Sorts.md",
+                "file": "MOC/Computer Science MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterative Sorts"
+              "title": "Computer Science MOC"
             }
           }
         ]
@@ -207,10 +207,10 @@
   },
   "active": "0865a0d16730433e",
   "lastOpenFiles": [
+    "Software Development Courses/Iterative Sorts.md",
     "Software Development Courses/attachments/bubblesort.gif",
     "Software Development Courses/attachments/Pasted image 20260211093645.png",
     "Software Development Courses/Complete Intro to Computer Science.md",
-    "Software Development Courses/Iterative Sorts.md",
     "MOC/Computer Science MOC.md",
     "Software Development Courses/Algorithm Analysis.md",
     "What EC, PPM, and pH Mean (Hydroponics).md",
