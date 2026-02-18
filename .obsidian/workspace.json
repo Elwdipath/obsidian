@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Untitled.md",
+                "file": "Recipes/Pan Cook Pork Chops with Orange Balsamic Glaze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Pan Cook Pork Chops with Orange Balsamic Glaze"
             }
           }
         ],
@@ -220,10 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70f6df5a806dbc88",
+  "active": "5ebf40eb21ef737f",
   "lastOpenFiles": [
     "Recipes/Salmon Temaki Bento Box.md",
-    "Recipes/Untitled.md",
+    "Recipes/Pan Cook Pork Chops with Orange Balsamic Glaze.md",
     "Templates/Recipe.md",
     "Software Development Courses/Agent Basics.md",
     "MOC/AI Agents Fundamentals.md",
