@@ -7,3 +7,6 @@
 [[Web Search and Context Management]]
 [[Shell Tool]]
 [[Human Guidance and Approvals]]
+
+[Repo](https://github.com/Hendrixer/agents-v2)
+[Course Site](https://publish.obsidian.md/agents-v2/)
