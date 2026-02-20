@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "800309a3df7b6ee0",
+        "id": "db012a0ceba74c73",
         "type": "tabs",
         "children": [
           {
-            "id": "0865a0d16730433e",
+            "id": "90512c084089e397",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Salmon Temaki Bento Box.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Salmon Temaki Bento Box"
-            }
-          },
-          {
-            "id": "5ebf40eb21ef737f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Pan Cook Pork Chops with Orange Balsamic Glaze.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pan Cook Pork Chops with Orange Balsamic Glaze"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ebf40eb21ef737f",
+  "active": "90512c084089e397",
   "lastOpenFiles": [
     "Recipes/Salmon Temaki Bento Box.md",
     "Recipes/Pan Cook Pork Chops with Orange Balsamic Glaze.md",
