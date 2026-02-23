@@ -34,8 +34,6 @@ Short description of the dish, when you like to make it, or why it slaps.
 - 2 tbsp honey  
 - 1 tbsp vinegar (rice wine vinegar preferred)
 
-
-
 ---
 
 ## 🔪 Prep
