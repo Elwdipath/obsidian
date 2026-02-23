@@ -16,13 +16,13 @@ This routine includes **3 full-body workouts per week** (A, B, C). Each day targ
 
 **Focus:** Upper chest, quads, back, hamstrings, arms.
 
-| Exercise | Sets | Reps |
-|----------|------|------|
-| Incline Dumbbell Press | 3 | 8–12 |
-| Barbell Squats | 3 | 6–8 |
-| Chest-Supported Dumbbell Row | 3 | 8–12 |
-| Seated/Standard Leg Curl | 3 | 10–12 |
-| Superset (Optional)* | 3 | — |
+| Exercise                     | Sets | Reps  |
+| ---------------------------- | ---- | ----- |
+| Incline Dumbbell Press       | 3    | 8–12  |
+| Barbell Squats               | 3    | 6–8   |
+| Chest-Supported Dumbbell Row | 3    | 8–12  |
+| Seated/Standard Leg Curl     | 3    | 10–12 |
+| Superset (Optional)*         | 3    | —     |
 
 \* *Finisher or superset options might include accessory arm work (e.g., curls + extensions) — depending on video continuation.* :contentReference[oaicite:2]{index=2}
 
