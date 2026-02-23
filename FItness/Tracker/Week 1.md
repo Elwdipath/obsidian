@@ -10,8 +10,7 @@ energy: 1-10
 tags:
 ---
 [[Workout Plan]]
-# 💪 2026-02-23 — {{workout}}
-
+# 💪 2026-02-23 — Workout A
 ## 🧠 Pre-Workout Notes
 - 
 - 
