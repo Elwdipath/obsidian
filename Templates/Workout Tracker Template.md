@@ -2,7 +2,7 @@
 type: workout-log
 program: Full Body A/B/C
 week: 
-day: Workout A / B / C
+workout: Workout A / B / C
 date: {{date}}
 bodyweight: 
 sleep: 
@@ -10,7 +10,7 @@ energy: 1-10
 tags: #workout #training
 ---
 
-# 💪 {{date}} — {{day}}
+# 💪 {{date}} — `= this.workout`
 
 ## 🧠 Pre-Workout Notes
 - 

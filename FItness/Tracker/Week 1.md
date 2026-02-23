@@ -2,7 +2,7 @@
 type: workout-log
 program: Full Body A/B/C
 week: "1"
-day: Workout A
+workout: Workout A
 date: 2026-02-23
 bodyweight: "200"
 sleep:
@@ -10,7 +10,7 @@ energy: 1-10
 tags:
 ---
 [[Workout Plan]]
-# 💪 2026-02-23 — {{day}}
+# 💪 2026-02-23 — {{workout}}
 
 ## 🧠 Pre-Workout Notes
 - 
