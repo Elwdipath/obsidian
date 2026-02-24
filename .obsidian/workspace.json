@@ -11,10 +11,14 @@
             "id": "90512c084089e397",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Software Development Courses/Algorithm Analysis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Algorithm Analysis"
             }
           }
         ]
@@ -186,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,6 +207,12 @@
   },
   "active": "90512c084089e397",
   "lastOpenFiles": [
+    "Templates/Workout Tracker Template.md",
+    "Recipes/Untitled.md",
+    "FItness/Tracker/Week 1.md",
+    "FItness/Workout Plan.md",
+    "FItness/Tracker",
+    "FItness",
     "Recipes/Salmon Temaki Bento Box.md",
     "Recipes/Pan Cook Pork Chops with Orange Balsamic Glaze.md",
     "Templates/Recipe.md",
@@ -229,20 +240,14 @@
     "Software Development Courses/Untitled.md",
     "MOC/Electronics Repair.md",
     "Tools.md",
-    "Templates/Project.md",
-    "Software Development Courses/Complete Intro to Computer Science Test.md",
     "Software Development Courses/BigOgraph-log.png",
     "Software Development Courses/attachments/BigOgraph-log.png",
     "Software Development Courses/attachments/BigOgraph.png",
     "Software Development Courses/attachments",
-    "Software Development Courses/The Last Algorithm Course You'll Need.md",
-    "2026-01-20.md",
     "Truth Technologies/Untitled",
     "Truth Technologies",
     "MOC",
     "Software Development Courses",
-    "Projects",
-    "Templates",
-    "Daily Notes/2026/January"
+    "Projects"
   ]
 }
