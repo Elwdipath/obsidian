@@ -1,4 +1,5 @@
 [[Recognizing Systems]]
+	[[Pizza Shop Exercise]]
 [[Requirements]]
 [[High Level Design]]
 [[Scaling]]
