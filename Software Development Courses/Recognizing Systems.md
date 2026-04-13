@@ -10,7 +10,7 @@
 
 ### Why are boundaries important when defining a system?
 
-Boundaries are important to prevent score creep and to constrain the problem space. WIthout boundaries, systems are endless and you could spend infinite time going deeper into details. Boundaries help focus on what is important and prevent getting lost in areas that may not be relevant to the actual problem.
+Boundaries are important to prevent score creep and to constrain the problem space. Without boundaries, systems are endless and you could spend infinite time going deeper into details. Boundaries help focus on what is important and prevent getting lost in areas that may not be relevant to the actual problem.
 
 ### What is the definition of a system in the context of system design?
 
