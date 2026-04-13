@@ -18,5 +18,9 @@ A system is a collections of components that work together to solve a problem. I
 
 ### Why is it valuable to understand your role within a larger system and how other components interconnect?
 
-Understanding your role in the system and how the parts around
+Understanding your role in the system and how the parts around you interconnect makes you more effective. Recognizing what different teams and roles do, and how they connect, allows you to work more efficiently and make better decisions about where to focus your efforts.
+
+### When designing systems, why might two systems with the same components produce vastly different results?
+
+While systems may have the same high-level components, its the details and nuances of those components, and how they work together, that determine the actual performance and characteristics of the system. The same basic parts can be optimized and configured differently to serve completely different purposes.
 
