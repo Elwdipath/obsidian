@@ -1,0 +1,6 @@
+[[Linear Search & Kata Setup]]
+[[Binary Search Algorithm]]
+[[Pseudo Code Binary Search]]
+[[Implementing Binary Search]]
+[[Two Crystal Balls Problem]]
+[[Implementing Two Crystal Balls]]
