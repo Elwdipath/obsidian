@@ -18,11 +18,8 @@ tags:
   - chicken
   - mealprep
 ---
-
-# Untitled
-
 ## 📝 Description
-Short description of the dish, when you like to make it, or why it slaps.
+
 
 ---
 
