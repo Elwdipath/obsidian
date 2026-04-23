@@ -1,0 +1,3 @@
+- Multiple computers working together as a single system
+- Components may be physically separated
+- Designed to handle failures and scale across multiple locations

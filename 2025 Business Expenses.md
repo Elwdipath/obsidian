@@ -1,0 +1,5 @@
+- raspberry pi
+- External Drive
+- Desks
+- Monitors
+- Legal Filings
