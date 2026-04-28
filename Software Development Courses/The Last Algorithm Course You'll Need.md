@@ -1,4 +1,4 @@
-[[Basics]]
+[[Algo Basics]]
 [[Search]]
 [[Sorts]]
 [[Arrays]]
