@@ -2,7 +2,6 @@
 id: 1776701583-CCPY
 aliases: []
 tags:
-  - software development
   - javascript
 ---
 
